@@ -1,17 +1,7 @@
-### [X](http://link-to-x.com)
+### [Revolt](https://revolt.chat/)
 
-#### Install using Git
+#### Install using the Theme Shop.
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+1.) Open Revolt.
+2.) Click "Settings" and then navigate to the "Theme Shop".
+3.) Search for "Dracula" and then install it.
