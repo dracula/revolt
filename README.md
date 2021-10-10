@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Revolt](https://revolt.chat/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Revolt](https://revolt.chat/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/revolt](https://draculatheme.com/revolt).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Wild](https://github.com/Wild54.png?size=100)](https://github.com/Wild54) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Wild](https://github.com/Wild54) |
 
 ## License
 
