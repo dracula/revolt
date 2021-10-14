@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/revolt](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/revolt/graphs/contributors).
 
 [![Wild](https://github.com/Wild54.png?size=100)](https://github.com/Wild54) |
 --- |
